@@ -16,3 +16,5 @@ search -end函数：
 analyse:分析程序
 
 （运行过程中生成的nfa,dfa，mindfa均输出为表格形式，方便查看步骤）
+
+test
